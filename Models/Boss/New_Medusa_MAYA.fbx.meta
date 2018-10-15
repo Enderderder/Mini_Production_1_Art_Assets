@@ -1,0 +1,632 @@
+fileFormatVersion: 2
+guid: 7a519290d670315479855851fd9150c8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Low_medusa2
+    100002: Medusa
+    100004: Medusa3Bone001
+    100006: Medusa3Bone002
+    100008: Medusa3Bone003
+    100010: Medusa3Bone003 1
+    100012: Medusa3Bone003 2
+    100014: Medusa3Bone004
+    100016: Medusa3Bone004 1
+    100018: Medusa3Bone004 10
+    100020: Medusa3Bone004 11
+    100022: Medusa3Bone004 12
+    100024: Medusa3Bone004 13
+    100026: Medusa3Bone004 14
+    100028: Medusa3Bone004 15
+    100030: Medusa3Bone004 16
+    100032: Medusa3Bone004 17
+    100034: Medusa3Bone004 18
+    100036: Medusa3Bone004 19
+    100038: Medusa3Bone004 2
+    100040: Medusa3Bone004 20
+    100042: Medusa3Bone004 3
+    100044: Medusa3Bone004 4
+    100046: Medusa3Bone004 5
+    100048: Medusa3Bone004 6
+    100050: Medusa3Bone004 7
+    100052: Medusa3Bone004 8
+    100054: Medusa3Bone004 9
+    100056: Medusa3Bone005
+    100058: Medusa3Bone006
+    100060: Medusa3Bone007
+    100062: Medusa3Bone008
+    100064: Medusa3Bone009
+    100066: Medusa3Bone010
+    100068: Medusa4Bone001
+    100070: Medusa4Bone001 1
+    100072: Medusa4Bone001 2
+    100074: Medusa4Bone001 3
+    100076: Medusa4Bone001 4
+    100078: Medusa4Bone002
+    100080: Medusa4Bone002 1
+    100082: Medusa4Bone002 2
+    100084: Medusa4Bone002 3
+    100086: MedusaHead
+    100088: MedusaLCollarbone
+    100090: MedusaLDigit11
+    100092: MedusaLDigit21
+    100094: MedusaLDigit22
+    100096: MedusaLForearm
+    100098: MedusaLPalm
+    100100: MedusaLUpperarm
+    100102: MedusaNeck1
+    100104: MedusaNeck2
+    100106: MedusaPelvis
+    100108: MedusaRArmCollarbone
+    100110: MedusaRArmDigit11
+    100112: MedusaRArmDigit21
+    100114: MedusaRArmDigit22
+    100116: MedusaRArmForearm
+    100118: MedusaRArmPalm
+    100120: MedusaRArmUpperarm
+    100122: MedusaRibcage
+    100124: MedusaSpine1
+    100126: MedusaSpine2
+    100128: MedusaSpine3
+    100130: MedusaSpine4
+    100132: MedusaTail004
+    100134: MedusaTail014
+    100136: MedusaTail015
+    100138: MedusaTail016
+    100140: MedusaTail017
+    100142: MedusaTail018
+    100144: MedusaTail019
+    100146: MedusaTail020
+    100148: MedusaTail021
+    100150: MedusaTail022
+    100152: MedusaTail035
+    100154: MedusaTail036
+    100156: MedusaTail037
+    100158: MedusaTail038
+    100160: MedusaTail039
+    100162: MedusaTail040
+    100164: MedusaTail042
+    100166: MedusaTail043
+    100168: MedusaTail1
+    100170: MedusaTail1 1
+    100172: MedusaTail1 10
+    100174: MedusaTail1 11
+    100176: MedusaTail1 12
+    100178: MedusaTail1 13
+    100180: MedusaTail1 14
+    100182: MedusaTail1 15
+    100184: MedusaTail1 16
+    100186: MedusaTail1 17
+    100188: MedusaTail1 18
+    100190: MedusaTail1 19
+    100192: MedusaTail1 2
+    100194: MedusaTail1 20
+    100196: MedusaTail1 21
+    100198: MedusaTail1 22
+    100200: MedusaTail1 23
+    100202: MedusaTail1 24
+    100204: MedusaTail1 25
+    100206: MedusaTail1 26
+    100208: MedusaTail1 27
+    100210: MedusaTail1 28
+    100212: MedusaTail1 29
+    100214: MedusaTail1 3
+    100216: MedusaTail1 30
+    100218: MedusaTail1 31
+    100220: MedusaTail1 32
+    100222: MedusaTail1 33
+    100224: MedusaTail1 34
+    100226: MedusaTail1 35
+    100228: MedusaTail1 4
+    100230: MedusaTail1 5
+    100232: MedusaTail1 6
+    100234: MedusaTail1 7
+    100236: MedusaTail1 8
+    100238: MedusaTail1 9
+    100240: MedusaTail10
+    100242: MedusaTail11
+    100244: MedusaTail12
+    100246: MedusaTail13
+    100248: MedusaTail2
+    100250: MedusaTail2 1
+    100252: MedusaTail2 10
+    100254: MedusaTail2 11
+    100256: MedusaTail2 12
+    100258: MedusaTail2 13
+    100260: MedusaTail2 14
+    100262: MedusaTail2 15
+    100264: MedusaTail2 16
+    100266: MedusaTail2 17
+    100268: MedusaTail2 18
+    100270: MedusaTail2 19
+    100272: MedusaTail2 2
+    100274: MedusaTail2 20
+    100276: MedusaTail2 21
+    100278: MedusaTail2 22
+    100280: MedusaTail2 23
+    100282: MedusaTail2 24
+    100284: MedusaTail2 25
+    100286: MedusaTail2 26
+    100288: MedusaTail2 27
+    100290: MedusaTail2 28
+    100292: MedusaTail2 29
+    100294: MedusaTail2 3
+    100296: MedusaTail2 30
+    100298: MedusaTail2 31
+    100300: MedusaTail2 32
+    100302: MedusaTail2 33
+    100304: MedusaTail2 34
+    100306: MedusaTail2 35
+    100308: MedusaTail2 4
+    100310: MedusaTail2 5
+    100312: MedusaTail2 6
+    100314: MedusaTail2 7
+    100316: MedusaTail2 8
+    100318: MedusaTail2 9
+    100320: MedusaTail3
+    100322: MedusaTail3 1
+    100324: MedusaTail3 10
+    100326: MedusaTail3 11
+    100328: MedusaTail3 12
+    100330: MedusaTail3 13
+    100332: MedusaTail3 14
+    100334: MedusaTail3 15
+    100336: MedusaTail3 16
+    100338: MedusaTail3 17
+    100340: MedusaTail3 18
+    100342: MedusaTail3 19
+    100344: MedusaTail3 2
+    100346: MedusaTail3 20
+    100348: MedusaTail3 21
+    100350: MedusaTail3 22
+    100352: MedusaTail3 23
+    100354: MedusaTail3 24
+    100356: MedusaTail3 25
+    100358: MedusaTail3 26
+    100360: MedusaTail3 27
+    100362: MedusaTail3 28
+    100364: MedusaTail3 29
+    100366: MedusaTail3 3
+    100368: MedusaTail3 30
+    100370: MedusaTail3 31
+    100372: MedusaTail3 32
+    100374: MedusaTail3 33
+    100376: MedusaTail3 34
+    100378: MedusaTail3 35
+    100380: MedusaTail3 4
+    100382: MedusaTail3 5
+    100384: MedusaTail3 6
+    100386: MedusaTail3 7
+    100388: MedusaTail3 8
+    100390: MedusaTail3 9
+    100392: MedusaTail4
+    100394: MedusaTail4 1
+    100396: MedusaTail4 2
+    100398: MedusaTail4 3
+    100400: MedusaTail4 4
+    100402: MedusaTail4 5
+    100404: MedusaTail4 6
+    100406: MedusaTail4 7
+    100408: MedusaTail4 8
+    100410: MedusaTail4 9
+    100412: MedusaTail5
+    100414: MedusaTail6
+    100416: MedusaTail7
+    100418: MedusaTail8
+    100420: MedusaTail9
+    100422: //RootNode
+    400000: Low_medusa2
+    400002: Medusa
+    400004: Medusa3Bone001
+    400006: Medusa3Bone002
+    400008: Medusa3Bone003
+    400010: Medusa3Bone003 1
+    400012: Medusa3Bone003 2
+    400014: Medusa3Bone004
+    400016: Medusa3Bone004 1
+    400018: Medusa3Bone004 10
+    400020: Medusa3Bone004 11
+    400022: Medusa3Bone004 12
+    400024: Medusa3Bone004 13
+    400026: Medusa3Bone004 14
+    400028: Medusa3Bone004 15
+    400030: Medusa3Bone004 16
+    400032: Medusa3Bone004 17
+    400034: Medusa3Bone004 18
+    400036: Medusa3Bone004 19
+    400038: Medusa3Bone004 2
+    400040: Medusa3Bone004 20
+    400042: Medusa3Bone004 3
+    400044: Medusa3Bone004 4
+    400046: Medusa3Bone004 5
+    400048: Medusa3Bone004 6
+    400050: Medusa3Bone004 7
+    400052: Medusa3Bone004 8
+    400054: Medusa3Bone004 9
+    400056: Medusa3Bone005
+    400058: Medusa3Bone006
+    400060: Medusa3Bone007
+    400062: Medusa3Bone008
+    400064: Medusa3Bone009
+    400066: Medusa3Bone010
+    400068: Medusa4Bone001
+    400070: Medusa4Bone001 1
+    400072: Medusa4Bone001 2
+    400074: Medusa4Bone001 3
+    400076: Medusa4Bone001 4
+    400078: Medusa4Bone002
+    400080: Medusa4Bone002 1
+    400082: Medusa4Bone002 2
+    400084: Medusa4Bone002 3
+    400086: MedusaHead
+    400088: MedusaLCollarbone
+    400090: MedusaLDigit11
+    400092: MedusaLDigit21
+    400094: MedusaLDigit22
+    400096: MedusaLForearm
+    400098: MedusaLPalm
+    400100: MedusaLUpperarm
+    400102: MedusaNeck1
+    400104: MedusaNeck2
+    400106: MedusaPelvis
+    400108: MedusaRArmCollarbone
+    400110: MedusaRArmDigit11
+    400112: MedusaRArmDigit21
+    400114: MedusaRArmDigit22
+    400116: MedusaRArmForearm
+    400118: MedusaRArmPalm
+    400120: MedusaRArmUpperarm
+    400122: MedusaRibcage
+    400124: MedusaSpine1
+    400126: MedusaSpine2
+    400128: MedusaSpine3
+    400130: MedusaSpine4
+    400132: MedusaTail004
+    400134: MedusaTail014
+    400136: MedusaTail015
+    400138: MedusaTail016
+    400140: MedusaTail017
+    400142: MedusaTail018
+    400144: MedusaTail019
+    400146: MedusaTail020
+    400148: MedusaTail021
+    400150: MedusaTail022
+    400152: MedusaTail035
+    400154: MedusaTail036
+    400156: MedusaTail037
+    400158: MedusaTail038
+    400160: MedusaTail039
+    400162: MedusaTail040
+    400164: MedusaTail042
+    400166: MedusaTail043
+    400168: MedusaTail1
+    400170: MedusaTail1 1
+    400172: MedusaTail1 10
+    400174: MedusaTail1 11
+    400176: MedusaTail1 12
+    400178: MedusaTail1 13
+    400180: MedusaTail1 14
+    400182: MedusaTail1 15
+    400184: MedusaTail1 16
+    400186: MedusaTail1 17
+    400188: MedusaTail1 18
+    400190: MedusaTail1 19
+    400192: MedusaTail1 2
+    400194: MedusaTail1 20
+    400196: MedusaTail1 21
+    400198: MedusaTail1 22
+    400200: MedusaTail1 23
+    400202: MedusaTail1 24
+    400204: MedusaTail1 25
+    400206: MedusaTail1 26
+    400208: MedusaTail1 27
+    400210: MedusaTail1 28
+    400212: MedusaTail1 29
+    400214: MedusaTail1 3
+    400216: MedusaTail1 30
+    400218: MedusaTail1 31
+    400220: MedusaTail1 32
+    400222: MedusaTail1 33
+    400224: MedusaTail1 34
+    400226: MedusaTail1 35
+    400228: MedusaTail1 4
+    400230: MedusaTail1 5
+    400232: MedusaTail1 6
+    400234: MedusaTail1 7
+    400236: MedusaTail1 8
+    400238: MedusaTail1 9
+    400240: MedusaTail10
+    400242: MedusaTail11
+    400244: MedusaTail12
+    400246: MedusaTail13
+    400248: MedusaTail2
+    400250: MedusaTail2 1
+    400252: MedusaTail2 10
+    400254: MedusaTail2 11
+    400256: MedusaTail2 12
+    400258: MedusaTail2 13
+    400260: MedusaTail2 14
+    400262: MedusaTail2 15
+    400264: MedusaTail2 16
+    400266: MedusaTail2 17
+    400268: MedusaTail2 18
+    400270: MedusaTail2 19
+    400272: MedusaTail2 2
+    400274: MedusaTail2 20
+    400276: MedusaTail2 21
+    400278: MedusaTail2 22
+    400280: MedusaTail2 23
+    400282: MedusaTail2 24
+    400284: MedusaTail2 25
+    400286: MedusaTail2 26
+    400288: MedusaTail2 27
+    400290: MedusaTail2 28
+    400292: MedusaTail2 29
+    400294: MedusaTail2 3
+    400296: MedusaTail2 30
+    400298: MedusaTail2 31
+    400300: MedusaTail2 32
+    400302: MedusaTail2 33
+    400304: MedusaTail2 34
+    400306: MedusaTail2 35
+    400308: MedusaTail2 4
+    400310: MedusaTail2 5
+    400312: MedusaTail2 6
+    400314: MedusaTail2 7
+    400316: MedusaTail2 8
+    400318: MedusaTail2 9
+    400320: MedusaTail3
+    400322: MedusaTail3 1
+    400324: MedusaTail3 10
+    400326: MedusaTail3 11
+    400328: MedusaTail3 12
+    400330: MedusaTail3 13
+    400332: MedusaTail3 14
+    400334: MedusaTail3 15
+    400336: MedusaTail3 16
+    400338: MedusaTail3 17
+    400340: MedusaTail3 18
+    400342: MedusaTail3 19
+    400344: MedusaTail3 2
+    400346: MedusaTail3 20
+    400348: MedusaTail3 21
+    400350: MedusaTail3 22
+    400352: MedusaTail3 23
+    400354: MedusaTail3 24
+    400356: MedusaTail3 25
+    400358: MedusaTail3 26
+    400360: MedusaTail3 27
+    400362: MedusaTail3 28
+    400364: MedusaTail3 29
+    400366: MedusaTail3 3
+    400368: MedusaTail3 30
+    400370: MedusaTail3 31
+    400372: MedusaTail3 32
+    400374: MedusaTail3 33
+    400376: MedusaTail3 34
+    400378: MedusaTail3 35
+    400380: MedusaTail3 4
+    400382: MedusaTail3 5
+    400384: MedusaTail3 6
+    400386: MedusaTail3 7
+    400388: MedusaTail3 8
+    400390: MedusaTail3 9
+    400392: MedusaTail4
+    400394: MedusaTail4 1
+    400396: MedusaTail4 2
+    400398: MedusaTail4 3
+    400400: MedusaTail4 4
+    400402: MedusaTail4 5
+    400404: MedusaTail4 6
+    400406: MedusaTail4 7
+    400408: MedusaTail4 8
+    400410: MedusaTail4 9
+    400412: MedusaTail5
+    400414: MedusaTail6
+    400416: MedusaTail7
+    400418: MedusaTail8
+    400420: MedusaTail9
+    400422: //RootNode
+    2100000: Medusa_full
+    4300000: Low_medusa2
+    7400000: Idle
+    7400002: Walk
+    7400004: TailAttack
+    7400006: LaserAttack
+    9500000: //RootNode
+    13700000: Low_medusa2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 34
+      lastFrame: 64
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: TailAttack
+      takeName: Take 001
+      firstFrame: 65
+      lastFrame: 82
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: LaserAttack
+      takeName: Take 001
+      firstFrame: 88
+      lastFrame: 105
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
